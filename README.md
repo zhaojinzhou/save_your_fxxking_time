@@ -1,5 +1,5 @@
 # save_your_fxxking_time
-any notes can save your time
+notes can save your time
 
 ## prebuild tensorflow 2.4 dynamic c++ lib
 
